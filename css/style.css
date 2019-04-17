@@ -4,7 +4,7 @@ body{
 }
 .CV {
 	background-color: #fff;
-	height:100%;
+	height: auto;
 	width:1024px;
 	padding:50px;
 	margin:0 auto;
