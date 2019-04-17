@@ -1,0 +1,51 @@
+body{
+	background-color: #ccc;
+	font-size: 20px;
+}
+.CV {
+	background-color: #fff;
+	height:100%;
+	width:1024px;
+	padding:50px;
+	margin:0 auto;
+}
+
+header {
+	text-align: center;
+}
+
+h2 {
+	margin: 20px 10px;
+	background-color: #ccc;
+	padding: 10px;
+	border: 1px solid #000;
+}
+
+p {
+	margin: 0px 25px;
+	text-align: justify;
+	padding: 5px;
+}
+
+table {
+	border: 0px solid #000;
+	margin:10px;
+	width:98%;
+	border-collapse: collapse;
+}
+
+
+
+td, th {
+	padding:10px;
+	font-size: 120%;
+}
+
+.projects {
+	font-weight: bold;
+}
+
+
+h1 {
+	margin:0px auto;
+}
