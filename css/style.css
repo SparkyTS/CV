@@ -49,3 +49,8 @@ td, th {
 h1 {
 	margin:0px auto;
 }
+
+.contact{
+	position:relative;
+	float: right;
+}
